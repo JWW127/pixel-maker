@@ -1,7 +1,7 @@
-# pixel-maker
+# Pixel-maker
 
-Pixel maker that was required for my google scholar challenge.
+A pixel maker that was required for my Google Scholarship challenge. By clicking a cell it will change to desired color.
+<hr>
 
-
-You can see a working version at this pen 
+Working Version:
 https://codepen.io/jo_ey/pen/wmBbYx
