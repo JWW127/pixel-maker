@@ -16,12 +16,6 @@ $(document).ready(function () {
         $(this).css({ 'border-radius': '12px', 'background-color': colorInput });
     })
 
-    // $('.wrapper').on('mousedown', 'div', function sameColor() {
-    //     if ($(this).css({ 'background-color': colorInput })) {
-    //         $(this).css({ 'background-color': '' })
-    //     }
-    // })
-
     function makeGrid() {
 
         // clear previous divs/grid
